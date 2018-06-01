@@ -1,5 +1,5 @@
 # Natural Language Processing with TensorFlow
-This is the code repository for [Natural Language Processing with TensorFlow](https://www.packtpub.com/application-development/natural-language-processing-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781788478311), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Natural Language Processing with TensorFlow](https://www.packtpub.com/application-development/natural-language-processing-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781788478311), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Natural language processing (NLP) supplies the majority of data available to deep learning applications, while TensorFlow is the most important deep learning framework currently available. Natural Language Processing with TensorFlow brings TensorFlow and NLP together to give you invaluable tools to work with the immense volume of unstructured data in today’s data streams, and apply these tools to specific NLP tasks.
 
