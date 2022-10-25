@@ -31,3 +31,7 @@ To get the most out of this book, we assume the following from the reader:
 * [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831109)
 
 * [Beginning Application Development with TensorFlow and Keras](https://www.packtpub.com/application-development/beginning-application-development-tensorflow-and-keras?utm_source=github&utm_medium=repository&utm_campaign=9781789537291)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788478311">https://packt.link/free-ebook/9781788478311 </a> </p>
